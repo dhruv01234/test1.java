@@ -2,7 +2,7 @@ package p6;
 class first{
   public first()
   {
-    
+//     
     System.out.println(this.hashCode());
   }
 }
